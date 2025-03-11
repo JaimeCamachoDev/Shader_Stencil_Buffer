@@ -1,35 +1,9 @@
 <header>
 
-![Sin título-2](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![image](https://github.com/user-attachments/assets/ca9afe7c-f73a-4de2-bc1c-377a33c68879)
 
-# Titulo
+# Shader_Stencil_Buffer
 
-_Descripción_
+_Stencil buffer in Unity URP_
 
-</header>
-
-## Subtitulo
-
-Descripción :tada: :keyboard: 
-
-Asi se hacen hypervinculos [repository](https://github.com/JaimeCamachoDev/Template?tab=readme-ov-file#titulo).
-
-### Encabezado
-
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-</footer>
+[Tutorial](https://www.youtube.com/watch?v=y-SEiDTbszk)
